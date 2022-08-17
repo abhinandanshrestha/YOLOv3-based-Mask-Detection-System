@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 - [Download Weights](https://drive.google.com/file/d/1-H_DIlCpxvlFSbZKabNWZlG1ebniHzFH/view?usp=sharing) file. ( If you do not want to train on your own )
 
-## Inference
+## Step2: Run code
 python test_on_photo.py 
 
 python test_on_video.py
@@ -30,8 +30,9 @@ python test_on_video.py
 
 #### Images
 
-![Tested on image](https://github.com/AnjaanKhadka/Face-mask-Detection-using-YOLOv3/blob/master/images/result.jpg)
+![Tested on image](https://github.com/abhinandanshrestha/YOLOv3-based-Mask-Detection-System/blob/master/images/result1.PNG)
+![Tested on image](https://github.com/abhinandanshrestha/YOLOv3-based-Mask-Detection-System/blob/master/images/result2.PNG)
 
 #### Video
 
-![Tested on video](https://github.com/AnjaanKhadka/Face-mask-Detection-using-YOLOv3/blob/master/images/result_video.gif)
+![Tested on video](https://github.com/abhinandanshrestha/YOLOv3-based-Mask-Detection-System/blob/master/demo.gif)
