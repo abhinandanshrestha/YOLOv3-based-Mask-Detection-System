@@ -15,9 +15,9 @@ Do follow following links for dataset, model, and trained weight file.
 [YOLO darknet from AlexeyAB](https://github.com/AlexeyAB/darknet)
 
 ## Step1: Requirements
-pip install -r requirements.txt
 
-- [Download Weights](https://drive.google.com/file/d/1-H_DIlCpxvlFSbZKabNWZlG1ebniHzFH/view?usp=sharing) file. ( If you do not want to train on your own )
+- pip install -r requirements.txt
+- [Download Weights](https://drive.google.com/file/d/1-H_DIlCpxvlFSbZKabNWZlG1ebniHzFH/view?usp=sharing) & paste in your working directory.
 
 ## Step2: Run code
 python test_on_photo.py 
